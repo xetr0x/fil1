@@ -7,7 +7,7 @@ namespace UppgiftB_03_09_21
         static void Main(string[] args)
         {
 
-            string x = 200;
+            string x = 20;
             string citat = Console.ReadLine();
             char[] separators = new char[] { ' ', '.' };
 
